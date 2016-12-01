@@ -1,0 +1,10 @@
+#div1 {
+	overflow-y: auto;
+	height:600px;
+	width:700px;
+}
+
+#div1 table {
+	width:600px;
+
+}

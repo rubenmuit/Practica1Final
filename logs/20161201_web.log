@@ -1,0 +1,41 @@
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 117-797-477
+INFO:root:14:19:25:AppInfo: New User.
+INFO:root:14:19:25:AppInfo: Starting query for new sample.
+INFO:werkzeug:127.0.0.1 - - [01/Dec/2016 14:19:25] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Dec/2016 14:19:25] "GET /assets/css/main.css HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [01/Dec/2016 14:19:30] "GET /assets/css/main.css HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [01/Dec/2016 14:19:30] "GET /static/styles/font-awesome.min.css HTTP/1.1" 404 -
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 117-797-477
+INFO:root:14:19:53:AppInfo: New User.
+INFO:root:14:19:53:AppInfo: Starting query for new sample.
+INFO:werkzeug:127.0.0.1 - - [01/Dec/2016 14:19:53] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Dec/2016 14:19:53] "GET /assets/css/main.css HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [01/Dec/2016 14:19:53] "GET /static/styles/font-awesome.min.css HTTP/1.1" 404 -
+INFO:root:14:21:20:AppInfo: Starting query for new sample.
+INFO:werkzeug:127.0.0.1 - - [01/Dec/2016 14:21:20] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Dec/2016 14:21:20] "GET /assets/css/main.css HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [01/Dec/2016 14:21:25] "GET /static/styles/font-awesome.min.css HTTP/1.1" 404 -
+INFO:werkzeug: * Detected change in '/home/ruben/MUIT/Practica1Final/app/funciones.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 117-797-477
+INFO:werkzeug: * Detected change in '/home/ruben/MUIT/Practica1Final/app/views.py', reloading
+INFO:werkzeug: * Restarting with stat
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger pin code: 117-797-477
+INFO:root:14:24:41:AppInfo: Mean requested.
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.beebotte.com
+DEBUG:requests.packages.urllib3.connectionpool:http://api.beebotte.com:80 "GET /v1/data/read/vodafone/Cotizacion?source=raw&limit=10 HTTP/1.1" 200 1178
+INFO:werkzeug:127.0.0.1 - - [01/Dec/2016 14:24:42] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Dec/2016 14:24:42] "GET /assets/css/main.css HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [01/Dec/2016 14:24:47] "GET /static/styles/font-awesome.min.css HTTP/1.1" 404 -
+INFO:root:14:24:51:AppInfo: Umbral inserted.
+INFO:werkzeug:127.0.0.1 - - [01/Dec/2016 14:24:51] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [01/Dec/2016 14:24:52] "GET /assets/css/main.css HTTP/1.1" 404 -
+INFO:werkzeug:127.0.0.1 - - [01/Dec/2016 14:24:57] "GET /static/styles/font-awesome.min.css HTTP/1.1" 404 -

@@ -1,0 +1,108 @@
+INFO:root:14:11:02:AppInfo: Starting query for new sample.
+INFO:root:14:11:02:AppInfo: Insert in MongoDB done. Price: 1,9080. Time: 13:54:56 in Mongo
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.beebotte.com
+DEBUG:requests.packages.urllib3.connectionpool:http://api.beebotte.com:80 "POST /v1/data/write/vodafone/Cotizacion HTTP/1.1" 200 4
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.beebotte.com
+DEBUG:requests.packages.urllib3.connectionpool:http://api.beebotte.com:80 "POST /v1/data/write/vodafone/Hora_cotizacion HTTP/1.1" 200 4
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.beebotte.com
+DEBUG:requests.packages.urllib3.connectionpool:http://api.beebotte.com:80 "POST /v1/data/write/vodafone/Hora_muestra HTTP/1.1" 200 4
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.beebotte.com
+DEBUG:requests.packages.urllib3.connectionpool:http://api.beebotte.com:80 "POST /v1/data/write/vodafone/Fecha HTTP/1.1" 200 4
+INFO:root:14:11:03:AppInfo: Insert in Beebotte done. Price: 1,9080. Time: 13:54:56 in Mongo
+INFO:root:14:11:03:AppInfo: Query for new sample ended.
+INFO:root:14:12:09:AppInfo: Starting query for new sample.
+INFO:root:14:12:09:AppInfo: Insert in MongoDB done. Price: 1,9085. Time: 13:52:48 in Mongo
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.beebotte.com
+DEBUG:requests.packages.urllib3.connectionpool:http://api.beebotte.com:80 "POST /v1/data/write/vodafone/Cotizacion HTTP/1.1" 200 4
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.beebotte.com
+DEBUG:requests.packages.urllib3.connectionpool:http://api.beebotte.com:80 "POST /v1/data/write/vodafone/Hora_cotizacion HTTP/1.1" 200 4
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.beebotte.com
+DEBUG:requests.packages.urllib3.connectionpool:http://api.beebotte.com:80 "POST /v1/data/write/vodafone/Hora_muestra HTTP/1.1" 200 4
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.beebotte.com
+DEBUG:requests.packages.urllib3.connectionpool:http://api.beebotte.com:80 "POST /v1/data/write/vodafone/Fecha HTTP/1.1" 200 4
+INFO:root:14:12:10:AppInfo: Insert in Beebotte done. Price: 1,9085. Time: 13:52:48 in Mongo
+INFO:root:14:12:10:AppInfo: Query for new sample ended.
+INFO:root:14:14:01:AppInfo: Starting query for new sample.
+INFO:root:14:14:02:AppInfo: Insert in MongoDB done. Price: 1,9085. Time: 13:52:48 in Mongo
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.beebotte.com
+DEBUG:requests.packages.urllib3.connectionpool:http://api.beebotte.com:80 "POST /v1/data/write/vodafone/Cotizacion HTTP/1.1" 200 4
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.beebotte.com
+DEBUG:requests.packages.urllib3.connectionpool:http://api.beebotte.com:80 "POST /v1/data/write/vodafone/Hora_cotizacion HTTP/1.1" 200 4
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.beebotte.com
+DEBUG:requests.packages.urllib3.connectionpool:http://api.beebotte.com:80 "POST /v1/data/write/vodafone/Hora_muestra HTTP/1.1" 200 4
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.beebotte.com
+DEBUG:requests.packages.urllib3.connectionpool:http://api.beebotte.com:80 "POST /v1/data/write/vodafone/Fecha HTTP/1.1" 200 4
+INFO:root:14:14:03:AppInfo: Insert in Beebotte done. Price: 1,9085. Time: 13:52:48 in Mongo
+INFO:root:14:14:03:AppInfo: Query for new sample ended.
+INFO:root:14:16:01:AppInfo: Starting query for new sample.
+INFO:root:14:16:01:AppInfo: Insert in MongoDB done. Price: 1,9080. Time: 13:54:56 in Mongo
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.beebotte.com
+DEBUG:requests.packages.urllib3.connectionpool:http://api.beebotte.com:80 "POST /v1/data/write/vodafone/Cotizacion HTTP/1.1" 200 4
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.beebotte.com
+DEBUG:requests.packages.urllib3.connectionpool:http://api.beebotte.com:80 "POST /v1/data/write/vodafone/Hora_cotizacion HTTP/1.1" 200 4
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.beebotte.com
+DEBUG:requests.packages.urllib3.connectionpool:http://api.beebotte.com:80 "POST /v1/data/write/vodafone/Hora_muestra HTTP/1.1" 200 4
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.beebotte.com
+DEBUG:requests.packages.urllib3.connectionpool:http://api.beebotte.com:80 "POST /v1/data/write/vodafone/Fecha HTTP/1.1" 200 4
+INFO:root:14:16:03:AppInfo: Insert in Beebotte done. Price: 1,9080. Time: 13:54:56 in Mongo
+INFO:root:14:16:03:AppInfo: Query for new sample ended.
+INFO:root:14:18:01:AppInfo: Starting query for new sample.
+INFO:root:14:18:01:AppInfo: Insert in MongoDB done. Price: 1,9070. Time: 14:00:41 in Mongo
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.beebotte.com
+DEBUG:requests.packages.urllib3.connectionpool:http://api.beebotte.com:80 "POST /v1/data/write/vodafone/Cotizacion HTTP/1.1" 200 4
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.beebotte.com
+DEBUG:requests.packages.urllib3.connectionpool:http://api.beebotte.com:80 "POST /v1/data/write/vodafone/Hora_cotizacion HTTP/1.1" 200 4
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.beebotte.com
+DEBUG:requests.packages.urllib3.connectionpool:http://api.beebotte.com:80 "POST /v1/data/write/vodafone/Hora_muestra HTTP/1.1" 200 4
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.beebotte.com
+DEBUG:requests.packages.urllib3.connectionpool:http://api.beebotte.com:80 "POST /v1/data/write/vodafone/Fecha HTTP/1.1" 200 4
+INFO:root:14:18:02:AppInfo: Insert in Beebotte done. Price: 1,9070. Time: 14:00:41 in Mongo
+INFO:root:14:18:02:AppInfo: Query for new sample ended.
+INFO:root:14:20:02:AppInfo: Starting query for new sample.
+INFO:root:14:20:02:AppInfo: Insert in MongoDB done. Price: 1,9065. Time: 14:02:59 in Mongo
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.beebotte.com
+DEBUG:requests.packages.urllib3.connectionpool:http://api.beebotte.com:80 "POST /v1/data/write/vodafone/Cotizacion HTTP/1.1" 200 4
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.beebotte.com
+DEBUG:requests.packages.urllib3.connectionpool:http://api.beebotte.com:80 "POST /v1/data/write/vodafone/Hora_cotizacion HTTP/1.1" 200 4
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.beebotte.com
+DEBUG:requests.packages.urllib3.connectionpool:http://api.beebotte.com:80 "POST /v1/data/write/vodafone/Hora_muestra HTTP/1.1" 200 4
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.beebotte.com
+DEBUG:requests.packages.urllib3.connectionpool:http://api.beebotte.com:80 "POST /v1/data/write/vodafone/Fecha HTTP/1.1" 200 4
+INFO:root:14:20:03:AppInfo: Insert in Beebotte done. Price: 1,9065. Time: 14:02:59 in Mongo
+INFO:root:14:20:03:AppInfo: Query for new sample ended.
+INFO:root:14:22:01:AppInfo: Starting query for new sample.
+INFO:root:14:22:01:AppInfo: Insert in MongoDB done. Price: 1,9070. Time: 14:00:41 in Mongo
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.beebotte.com
+DEBUG:requests.packages.urllib3.connectionpool:http://api.beebotte.com:80 "POST /v1/data/write/vodafone/Cotizacion HTTP/1.1" 200 4
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.beebotte.com
+DEBUG:requests.packages.urllib3.connectionpool:http://api.beebotte.com:80 "POST /v1/data/write/vodafone/Hora_cotizacion HTTP/1.1" 200 4
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.beebotte.com
+DEBUG:requests.packages.urllib3.connectionpool:http://api.beebotte.com:80 "POST /v1/data/write/vodafone/Hora_muestra HTTP/1.1" 200 4
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.beebotte.com
+DEBUG:requests.packages.urllib3.connectionpool:http://api.beebotte.com:80 "POST /v1/data/write/vodafone/Fecha HTTP/1.1" 200 4
+INFO:root:14:22:03:AppInfo: Insert in Beebotte done. Price: 1,9070. Time: 14:00:41 in Mongo
+INFO:root:14:22:03:AppInfo: Query for new sample ended.
+INFO:root:14:24:01:AppInfo: Starting query for new sample.
+INFO:root:14:24:02:AppInfo: Insert in MongoDB done. Price: 1,9065. Time: 14:02:59 in Mongo
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.beebotte.com
+DEBUG:requests.packages.urllib3.connectionpool:http://api.beebotte.com:80 "POST /v1/data/write/vodafone/Cotizacion HTTP/1.1" 200 4
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.beebotte.com
+DEBUG:requests.packages.urllib3.connectionpool:http://api.beebotte.com:80 "POST /v1/data/write/vodafone/Hora_cotizacion HTTP/1.1" 200 4
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.beebotte.com
+DEBUG:requests.packages.urllib3.connectionpool:http://api.beebotte.com:80 "POST /v1/data/write/vodafone/Hora_muestra HTTP/1.1" 200 4
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.beebotte.com
+DEBUG:requests.packages.urllib3.connectionpool:http://api.beebotte.com:80 "POST /v1/data/write/vodafone/Fecha HTTP/1.1" 200 4
+INFO:root:14:24:03:AppInfo: Insert in Beebotte done. Price: 1,9065. Time: 14:02:59 in Mongo
+INFO:root:14:24:03:AppInfo: Query for new sample ended.
+INFO:root:14:26:02:AppInfo: Starting query for new sample.
+INFO:root:14:26:02:AppInfo: Insert in MongoDB done. Price: 1,9060. Time: 14:08:58 in Mongo
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.beebotte.com
+DEBUG:requests.packages.urllib3.connectionpool:http://api.beebotte.com:80 "POST /v1/data/write/vodafone/Cotizacion HTTP/1.1" 200 4
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.beebotte.com
+DEBUG:requests.packages.urllib3.connectionpool:http://api.beebotte.com:80 "POST /v1/data/write/vodafone/Hora_cotizacion HTTP/1.1" 200 4
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.beebotte.com
+DEBUG:requests.packages.urllib3.connectionpool:http://api.beebotte.com:80 "POST /v1/data/write/vodafone/Hora_muestra HTTP/1.1" 200 4
+DEBUG:requests.packages.urllib3.connectionpool:Starting new HTTP connection (1): api.beebotte.com
+DEBUG:requests.packages.urllib3.connectionpool:http://api.beebotte.com:80 "POST /v1/data/write/vodafone/Fecha HTTP/1.1" 200 4
+INFO:root:14:26:03:AppInfo: Insert in Beebotte done. Price: 1,9060. Time: 14:08:58 in Mongo
+INFO:root:14:26:03:AppInfo: Query for new sample ended.

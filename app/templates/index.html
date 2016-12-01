@@ -1,0 +1,72 @@
+<head>
+	<link type= "text/css" href= "{{ url_for('static',filename='styles/estilos.css') }}">
+	<link rel="stylesheet" href="assets/css/main.css" />
+</head>
+{% extends "base.html" %}
+{% block content %}
+
+	<h1>Hola {{ user.nickname }}</h1>
+	<p>Cotizacion actual: {{cot_actual}} </p>
+	<p>Hora: {{hora_actual}} </p>
+	<p>Fecha: {{fecha_actual}} </p>
+
+	<form action="." method="POST" name="index">
+
+		<p><b>Calculo de la cotizacion media</b>></p>
+		<input type="submit" name="boton_media" value="Media">
+		<input type="text" name="text_media" size="10" maxlength="20" value ="{{valor_media}} {{fuente_media}}">
+
+		<select name="programa">    
+			<option value="VF" selected="selected">VF</option>
+			<option value="TELEFONICA">TELEFONICA</option>
+			<option value="ORANGE">ORANGE</option>
+		</select>
+		 
+		<p><b>Insertar umbral en %</b></p>
+		<input type="submit" name="boton_umbral" value="Umbral">
+		<input type="text" name="text_umbral" value = {{text_umbral}}>
+
+	</form>
+
+	<form action="https://beebotte.com/dash/a16aff70-b013-11e6-9d38-c733e0bdc86c" method="GET">	
+
+		<p><b>Graficas externas</b></p>
+		<input type="submit" name="boton_graficas" value="Graficas">
+	</form>
+
+	<div id="div1">
+	<TABLE BORDER=1>
+	<TR>
+		<TD WIDTH=100 ALIGN=CENTER>
+		Cotizacion
+		</TD>
+
+		<TD WIDTH=100 ALIGN=CENTER>
+		Fecha
+		</TD>
+
+		<TD WIDTH=100 ALIGN=CENTER>
+		Hora
+		</TD>
+	</TR>
+		{% for post in posts %}
+		<TR>
+			<TD WIDTH=100 ALIGN=CENTER>
+			{{post.cot}}
+			</TD>
+
+			<TD WIDTH=100 ALIGN=CENTER>
+			{{ post.fecha}}
+			</TD>
+
+			<TD WIDTH=100 ALIGN=CENTER>
+			{{ post.hora}}
+			</TD>
+		</TR>
+		{% endfor %}
+	</TABLE>
+	</div>
+
+
+
+{% endblock %}
